@@ -1,3 +1,5 @@
+# moved to [airlock-dev-apache-atlas](https://github.com/ing-bank/airlock-dev-apache-atlas)
+
 ## Apache Atlas docker image for gargoyle project
 
 ## Background
